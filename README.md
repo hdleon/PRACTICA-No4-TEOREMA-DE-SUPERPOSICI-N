@@ -157,8 +157,7 @@ Tabla correspondiente a las respectivas mediciones.
 
 **4.6. BIBLIOGRAFIA**
 
-Floyd, TL (2007). Principios de Circuitos Electricos. México: Pearson Educación. https://classroom.google.com/u/2/c/NDkxMjI5MzU3MTI3/m/NDkxMjc4MjMwNDMz/detalles
-
+Floyd, TL (2007). Principios de Circuitos Electricos. México: Pearson Educación.
 
 
 
