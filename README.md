@@ -56,7 +56,7 @@ Henrry Leon
 
 1.	Analizamos el circuito de acuerdo a la fuente de voltaje de 10 V, la otra fuente la dejaremos en corto, es decir, con una resistencia de cero. Por lo que tendremos el siguiente circuito
 
-![image](https://user-images.githubusercontent.com/116777118/210377377-bb27ed24-a607-4376-bbc1-fcef5c3f5d9c.png)
+![image](https://user-images.githubusercontent.com/116777118/210385115-da139b0d-c471-4b51-819e-c27485df3f55.png)
 
 Como se puede observar, R4 estaría en paralelo con una resistencia de cero o simplemente también se encuentra en corto circuito, por lo que, su intensidad de corriente con respecto a la fuente de 10 V será de 0.
 
@@ -124,6 +124,19 @@ Determinamos el voltaje proporcionado por la fuente de 3V:
 
 ![image](https://user-images.githubusercontent.com/116777118/210380327-21b99018-e7f8-446b-8fec-a2e017b8c52b.png)
 
+*TABLAS DE RESULTADOS*
+
+![image](https://user-images.githubusercontent.com/116777118/210385539-62b672d6-cabc-4e87-b750-3c23dced66da.png)
+
+*VALORES OBTENIDOS EN THINKERCARD*
+
+- Voltajes:
+
+![image](https://user-images.githubusercontent.com/116777118/210385830-4c7212b7-9d6b-45bf-bdd2-7651bd26a4b0.png)
+
+- Corrientes:
+
+![image](https://user-images.githubusercontent.com/116777118/210386424-534279fb-c06e-4748-9256-3fda895aa133.png)
 
 **4.4. VIDEO**
 
