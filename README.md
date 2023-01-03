@@ -138,14 +138,22 @@ Determinamos el voltaje proporcionado por la fuente de 3V:
 
 ![image](https://user-images.githubusercontent.com/116777118/210386424-534279fb-c06e-4748-9256-3fda895aa133.png)
 
+Tabla correspondiente a las respectivas mediciones. 
+
+![image](https://user-images.githubusercontent.com/116777118/210403219-1ee66c97-aa52-4e61-be37-851d11d368dd.png)
+
+**Errores de Cálculo:**
+
+![image](https://user-images.githubusercontent.com/116777118/210403496-5fb444d3-f36d-433a-81e2-ba9cfb9078f5.png)
+
 **4.4. VIDEO**
 
 
 **4.5. CONCLUSIONES**
 
-• El teorema de superposición es de gran ayuda cuando hallamos más de dos fuentes de voltaje presentes en un circuito eléctrico y buscamos calcular la intensidad que fluye en algún elemento en específico, es recomendable usar este teorema cuando tenemos más de 1 malla.
+- Se determino que el teorema de superposición es de gran utilidad cuando se tiene circuitos con más de una fuente de voltaje ya que, simplifica los cálculos al analizar independientemente cada una de las fuentes presentes al hacer corto a las demás, sin embargo, hay que tener mucho cuidado con la polaridad de las mismas, pues esto nos proporciona el sentido de las corrientes y nos dará la interpretación correcta del funcionamiento del verdadero circuito.
 
-• La práctica sirvió para aprender la definición del teorema de superposiciones y a cómo ponerlo en práctica.
+- Los circuitos multifuentes es mejor analizarlos por el teorema de superposición ya que al corto circuitarlos, el circuito a analizar es mas reducible por medio de solo simplificaccion de resistencias.
 
 **4.6. BIBLIOGRAFIA**
 
